@@ -1,0 +1,576 @@
+{
+  "type": "canvas",
+  "version": 0,
+  "nodes": [
+    {
+      "id": "root",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 240,
+      "height": 50,
+      "text": "🧠 Produtividade Integrada"
+    },
+
+    // ---------- Execução ----------
+    {
+      "id": "exec",
+      "type": "text",
+      "x": -400,
+      "y": -200,
+      "width": 200,
+      "height": 30,
+      "text": "⚙️ Execução"
+    },
+    {
+      "id": "pomodoro",
+      "type": "text",
+      "x": -600,
+      "y": -280,
+      "width": 180,
+      "height": 30,
+      "text": "⏳ Pomodoro"
+    },
+    {
+      "id": "pomodoro-1",
+      "type": "text",
+      "x": -720,
+      "y": -340,
+      "width": 140,
+      "height": 20,
+      "text": "25min foco"
+    },
+    {
+      "id": "pomodoro-2",
+      "type": "text",
+      "x": -720,
+      "y": -300,
+      "width": 140,
+      "height": 20,
+      "text": "5min pausa"
+    },
+    {
+      "id": "pomodoro-3",
+      "type": "text",
+      "x": -720,
+      "y": -260,
+      "width": 140,
+      "height": 20,
+      "text": "Alta concentração"
+    },
+    {
+      "id": "kanban",
+      "type": "text",
+      "x": -600,
+      "y": -140,
+      "width": 180,
+      "height": 30,
+      "text": "🟦 Kanban"
+    },
+    {
+      "id": "kanban-1",
+      "type": "text",
+      "x": -720,
+      "y": -100,
+      "width": 140,
+      "height": 20,
+      "text": "Fluxo visual"
+    },
+    {
+      "id": "kanban-2",
+      "type": "text",
+      "x": -720,
+      "y": -60,
+      "width": 140,
+      "height": 20,
+      "text": "Limite WIP"
+    },
+    {
+      "id": "kanban-3",
+      "type": "text",
+      "x": -720,
+      "y": -20,
+      "width": 140,
+      "height": 20,
+      "text": "Redução de gargalos"
+    },
+
+    // ---------- Gestão ----------
+    {
+      "id": "gestao",
+      "type": "text",
+      "x": 0,
+      "y": -200,
+      "width": 180,
+      "height": 30,
+      "text": "📊 Gestão"
+    },
+    {
+      "id": "scrum",
+      "type": "text",
+      "x": -180,
+      "y": -280,
+      "width": 140,
+      "height": 30,
+      "text": "🟥 Scrum"
+    },
+    {
+      "id": "scrum-1",
+      "type": "text",
+      "x": -280,
+      "y": -340,
+      "width": 120,
+      "height": 20,
+      "text": "Sprints"
+    },
+    {
+      "id": "scrum-2",
+      "type": "text",
+      "x": -280,
+      "y": -300,
+      "width": 120,
+      "height": 20,
+      "text": "Daily"
+    },
+    {
+      "id": "scrum-3",
+      "type": "text",
+      "x": -280,
+      "y": -260,
+      "width": 120,
+      "height": 20,
+      "text": "Retrospectiva"
+    },
+    {
+      "id": "lean",
+      "type": "text",
+      "x": 180,
+      "y": -280,
+      "width": 140,
+      "height": 30,
+      "text": "🟩 Lean"
+    },
+    {
+      "id": "lean-1",
+      "type": "text",
+      "x": 280,
+      "y": -340,
+      "width": 130,
+      "height": 20,
+      "text": "Eliminar desperdícios"
+    },
+    {
+      "id": "lean-2",
+      "type": "text",
+      "x": 280,
+      "y": -300,
+      "width": 130,
+      "height": 20,
+      "text": "Foco no valor"
+    },
+    {
+      "id": "lean-3",
+      "type": "text",
+      "x": 280,
+      "y": -260,
+      "width": 130,
+      "height": 20,
+      "text": "Eficiência"
+    },
+
+    // ---------- Organização ----------
+    {
+      "id": "organizacao",
+      "type": "text",
+      "x": 400,
+      "y": -200,
+      "width": 200,
+      "height": 30,
+      "text": "🧹 Organização"
+    },
+    {
+      "id": "5s",
+      "type": "text",
+      "x": 600,
+      "y": -280,
+      "width": 140,
+      "height": 30,
+      "text": "🟨 5S"
+    },
+    {
+      "id": "5s-1",
+      "type": "text",
+      "x": 720,
+      "y": -340,
+      "width": 150,
+      "height": 20,
+      "text": "Seiri (Utilização)"
+    },
+    {
+      "id": "5s-2",
+      "type": "text",
+      "x": 720,
+      "y": -300,
+      "width": 150,
+      "height": 20,
+      "text": "Seiton (Ordem)"
+    },
+    {
+      "id": "5s-3",
+      "type": "text",
+      "x": 720,
+      "y": -260,
+      "width": 150,
+      "height": 20,
+      "text": "Seiso (Limpeza)"
+    },
+    {
+      "id": "5s-4",
+      "type": "text",
+      "x": 720,
+      "y": -220,
+      "width": 150,
+      "height": 20,
+      "text": "Seiketsu (Padronizar)"
+    },
+    {
+      "id": "5s-5",
+      "type": "text",
+      "x": 720,
+      "y": -180,
+      "width": 150,
+      "height": 20,
+      "text": "Shitsuke (Disciplina)"
+    },
+
+    // ---------- Melhoria Contínua ----------
+    {
+      "id": "melhoria",
+      "type": "text",
+      "x": -800,
+      "y": 100,
+      "width": 240,
+      "height": 30,
+      "text": "🔄 Melhoria Contínua"
+    },
+    {
+      "id": "kaizen",
+      "type": "text",
+      "x": -1000,
+      "y": 20,
+      "width": 140,
+      "height": 30,
+      "text": "🟧 Kaizen"
+    },
+    {
+      "id": "kaizen-1",
+      "type": "text",
+      "x": -1120,
+      "y": -40,
+      "width": 150,
+      "height": 20,
+      "text": "Pequenas melhorias"
+    },
+    {
+      "id": "kaizen-2",
+      "type": "text",
+      "x": -1120,
+      "y": 0,
+      "width": 150,
+      "height": 20,
+      "text": "PDCA"
+    },
+    {
+      "id": "kaizen-3",
+      "type": "text",
+      "x": -1120,
+      "y": 40,
+      "width": 150,
+      "height": 20,
+      "text": "Evolução constante"
+    },
+
+    // ---------- Mentalidade ----------
+    {
+      "id": "mentalidade",
+      "type": "text",
+      "x": 0,
+      "y": 200,
+      "width": 200,
+      "height": 30,
+      "text": "🧘 Mentalidade"
+    },
+    {
+      "id": "shoshin",
+      "type": "text",
+      "x": -200,
+      "y": 280,
+      "width": 140,
+      "height": 30,
+      "text": "🌱 Shoshin"
+    },
+    {
+      "id": "shoshin-1",
+      "type": "text",
+      "x": -300,
+      "y": 340,
+      "width": 150,
+      "height": 20,
+      "text": "Mente de iniciante"
+    },
+    {
+      "id": "shoshin-2",
+      "type": "text",
+      "x": -300,
+      "y": 380,
+      "width": 150,
+      "height": 20,
+      "text": "Aprendizado contínuo"
+    },
+    {
+      "id": "wabi-sabi",
+      "type": "text",
+      "x": 200,
+      "y": 280,
+      "width": 140,
+      "height": 30,
+      "text": "🪵 Wabi‑Sabi"
+    },
+    {
+      "id": "wabi-sabi-1",
+      "type": "text",
+      "x": 300,
+      "y": 340,
+      "width": 150,
+      "height": 20,
+      "text": "Aceitar imperfeição"
+    },
+    {
+      "id": "wabi-sabi-2",
+      "type": "text",
+      "x": 300,
+      "y": 380,
+      "width": 150,
+      "height": 20,
+      "text": "Simplicidade"
+    },
+    {
+      "id": "hara-hachi",
+      "type": "text",
+      "x": 0,
+      "y": 340,
+      "width": 180,
+      "height": 30,
+      "text": "🍃 Hara Hachi Bu"
+    },
+    {
+      "id": "hara-hachi-1",
+      "type": "text",
+      "x": -80,
+      "y": 400,
+      "width": 150,
+      "height": 20,
+      "text": "Moderação"
+    },
+    {
+      "id": "hara-hachi-2",
+      "type": "text",
+      "x": 80,
+      "y": 400,
+      "width": 150,
+      "height": 20,
+      "text": "Evitar excesso"
+    },
+
+    // ---------- Propósito ----------
+    {
+      "id": "proposito",
+      "type": "text",
+      "x": 600,
+      "y": 200,
+      "width": 200,
+      "height": 30,
+      "text": "🎯 Propósito"
+    },
+    {
+      "id": "ikigai",
+      "type": "text",
+      "x": 800,
+      "y": 280,
+      "width": 140,
+      "height": 30,
+      "text": "🟪 IKIGAI"
+    },
+    {
+      "id": "ikigai-1",
+      "type": "text",
+      "x": 900,
+      "y": 340,
+      "width": 120,
+      "height": 20,
+      "text": "Paixão"
+    },
+    {
+      "id": "ikigai-2",
+      "type": "text",
+      "x": 900,
+      "y": 380,
+      "width": 120,
+      "height": 20,
+      "text": "Missão"
+    },
+    {
+      "id": "ikigai-3",
+      "type": "text",
+      "x": 900,
+      "y": 420,
+      "width": 120,
+      "height": 20,
+      "text": "Profissão"
+    },
+    {
+      "id": "ikigai-4",
+      "type": "text",
+      "x": 900,
+      "y": 460,
+      "width": 120,
+      "height": 20,
+      "text": "Vocação"
+    },
+
+    // ---------- Integração ----------
+    {
+      "id": "integracao",
+      "type": "text",
+      "x": -200,
+      "y": 200,
+      "width": 240,
+      "height": 30,
+      "text": "⚡ Integração"
+    },
+    {
+      "id": "integracao-1",
+      "type": "text",
+      "x": -200,
+      "y": 260,
+      "width": 200,
+      "height": 20,
+      "text": "Execução com foco"
+    },
+    {
+      "id": "integracao-2",
+      "type": "text",
+      "x": -200,
+      "y": 300,
+      "width": 200,
+      "height": 20,
+      "text": "Gestão eficiente"
+    },
+    {
+      "id": "integracao-3",
+      "type": "text",
+      "x": -200,
+      "y": 340,
+      "width": 200,
+      "height": 20,
+      "text": "Crescimento contínuo"
+    },
+    {
+      "id": "integracao-4",
+      "type": "text",
+      "x": -200,
+      "y": 380,
+      "width": 200,
+      "height": 20,
+      "text": "Equilíbrio pessoal"
+    }
+  ],
+  "edges": [
+    // Raiz → Principais áreas
+    { "id": "e1", "source": "root", "target": "exec", "type": "straight" },
+    { "id": "e2", "source": "root", "target": "gestao", "type": "straight" },
+    { "id": "e3", "source": "root", "target": "organizacao", "type": "straight" },
+    { "id": "e4", "source": "root", "target": "melhoria", "type": "straight" },
+    { "id": "e5", "source": "root", "target": "mentalidade", "type": "straight" },
+    { "id": "e6", "source": "root", "target": "proposito", "type": "straight" },
+    { "id": "e7", "source": "root", "target": "integracao", "type": "straight" },
+
+    // Execução → Pomodoro e Kanban
+    { "id": "e8", "source": "exec", "target": "pomodoro", "type": "straight" },
+    { "id": "e9", "source": "exec", "target": "kanban", "type": "straight" },
+
+    // Pomodoro → itens
+    { "id": "e10", "source": "pomodoro", "target": "pomodoro-1", "type": "straight" },
+    { "id": "e11", "source": "pomodoro", "target": "pomodoro-2", "type": "straight" },
+    { "id": "e12", "source": "pomodoro", "target": "pomodoro-3", "type": "straight" },
+
+    // Kanban → itens
+    { "id": "e13", "source": "kanban", "target": "kanban-1", "type": "straight" },
+    { "id": "e14", "source": "kanban", "target": "kanban-2", "type": "straight" },
+    { "id": "e15", "source": "kanban", "target": "kanban-3", "type": "straight" },
+
+    // Gestão → Scrum e Lean
+    { "id": "e16", "source": "gestao", "target": "scrum", "type": "straight" },
+    { "id": "e17", "source": "gestao", "target": "lean", "type": "straight" },
+
+    // Scrum → itens
+    { "id": "e18", "source": "scrum", "target": "scrum-1", "type": "straight" },
+    { "id": "e19", "source": "scrum", "target": "scrum-2", "type": "straight" },
+    { "id": "e20", "source": "scrum", "target": "scrum-3", "type": "straight" },
+
+    // Lean → itens
+    { "id": "e21", "source": "lean", "target": "lean-1", "type": "straight" },
+    { "id": "e22", "source": "lean", "target": "lean-2", "type": "straight" },
+    { "id": "e23", "source": "lean", "target": "lean-3", "type": "straight" },
+
+    // Organização → 5S
+    { "id": "e24", "source": "organizacao", "target": "5s", "type": "straight" },
+
+    // 5S → itens
+    { "id": "e25", "source": "5s", "target": "5s-1", "type": "straight" },
+    { "id": "e26", "source": "5s", "target": "5s-2", "type": "straight" },
+    { "id": "e27", "source": "5s", "target": "5s-3", "type": "straight" },
+    { "id": "e28", "source": "5s", "target": "5s-4", "type": "straight" },
+    { "id": "e29", "source": "5s", "target": "5s-5", "type": "straight" },
+
+    // Melhoria → Kaizen
+    { "id": "e30", "source": "melhoria", "target": "kaizen", "type": "straight" },
+
+    // Kaizen → itens
+    { "id": "e31", "source": "kaizen", "target": "kaizen-1", "type": "straight" },
+    { "id": "e32", "source": "kaizen", "target": "kaizen-2", "type": "straight" },
+    { "id": "e33", "source": "kaizen", "target": "kaizen-3", "type": "straight" },
+
+    // Mentalidade → sub‑itens
+    { "id": "e34", "source": "mentalidade", "target": "shoshin", "type": "straight" },
+    { "id": "e35", "source": "mentalidade", "target": "wabi-sabi", "type": "straight" },
+    { "id": "e36", "source": "mentalidade", "target": "hara-hachi", "type": "straight" },
+
+    // Shoshin → itens
+    { "id": "e37", "source": "shoshin", "target": "shoshin-1", "type": "straight" },
+    { "id": "e38", "source": "shoshin", "target": "shoshin-2", "type": "straight" },
+
+    // Wabi‑Sabi → itens
+    { "id": "e39", "source": "wabi-sabi", "target": "wabi-sabi-1", "type": "straight" },
+    { "id": "e40", "source": "wabi-sabi", "target": "wabi-sabi-2", "type": "straight" },
+
+    // Hara Hachi → itens
+    { "id": "e41", "source": "hara-hachi", "target": "hara-hachi-1", "type": "straight" },
+    { "id": "e42", "source": "hara-hachi", "target": "hara-hachi-2", "type": "straight" },
+
+    // Propósito → IKIGAI
+    { "id": "e43", "source": "proposito", "target": "ikigai", "type": "straight" },
+
+    // IKIGAI → itens
+    { "id": "e44", "source": "ikigai", "target": "ikigai-1", "type": "straight" },
+    { "id": "e45", "source": "ikigai", "target": "ikigai-2", "type": "straight" },
+    { "id": "e46", "source": "ikigai", "target": "ikigai-3", "type": "straight" },
+    { "id": "e47", "source": "ikigai", "target": "ikigai-4", "type": "straight" },
+
+    // Integração → itens
+    { "id": "e48", "source": "integracao", "target": "integracao-1", "type": "straight" },
+    { "id": "e49", "source": "integracao", "target": "integracao-2", "type": "straight" },
+    { "id": "e50", "source": "integracao", "target": "integracao-3", "type": "straight" },
+    { "id": "e51", "source": "integracao", "target": "integracao-4", "type": "straight" }
+  ]
+}
