@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/EXAMES.md",
+                "file": "Análise de Sistemas/GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXAMES"
+              "title": "GitHub"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pessoal/EXAMES.md",
+                "file": "Análise de Sistemas/GitHub.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de EXAMES"
+              "title": "Sumário de GitHub"
             }
           }
         ],
@@ -190,13 +190,15 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bcdd352d878bf727",
   "lastOpenFiles": [
-    "Pessoal/TESTOSTERONA.md",
     "Pessoal/EXAMES.md",
+    "Análise de Sistemas/GitHub.md",
+    "Pessoal/TESTOSTERONA.md",
     "Pessoal/TREINAMENTO.md",
     "Conhecimentos Gerais/Músicas/Peão.md",
     "Conhecimentos Gerais/Livros.md",
@@ -225,7 +227,6 @@
     "Análise de Sistemas/SaaS.md",
     "Engenharia/Regularização Imobiliária.md",
     "Engenharia/Prefeitura de Indaiatuba-SP.md",
-    "Engenharia/Engenharia..md",
     "CanvaTeste.canvas",
     "Análise de Sistemas",
     "ProdutividadeIntegrada.canvas",
