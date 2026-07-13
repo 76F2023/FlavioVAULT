@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1554f6f024fbca7b",
+        "id": "1dfe380484212555",
         "type": "tabs",
         "children": [
           {
-            "id": "bcdd352d878bf727",
+            "id": "48325a8a8fc9049a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Sistemas/GitHub.md",
+                "file": "Pessoal/Mapa Numerológico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "Mapa Numerológico"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/GitHub.md",
+                "file": "Pessoal/Mapa Numerológico.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de GitHub"
+              "title": "Sumário de Mapa Numerológico"
             }
           }
         ],
@@ -194,17 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcdd352d878bf727",
+  "active": "48325a8a8fc9049a",
   "lastOpenFiles": [
-    "Pessoal/EXAMES.md",
-    "Análise de Sistemas/GitHub.md",
     "Pessoal/TESTOSTERONA.md",
+    "Pessoal/Mapa Numerológico.md",
+    "CanvaTeste.canvas",
+    "Produtividade.canvas",
+    "Sem título.canvas",
+    "LIsta de itens a criar.md",
+    "ProdutividadeIntegrada.canvas",
+    "Análise de Sistemas/Markdown.md",
+    "Análise de Sistemas/GitHub.md",
+    "Pessoal/EXAMES.md",
     "Pessoal/TREINAMENTO.md",
     "Conhecimentos Gerais/Músicas/Peão.md",
     "Conhecimentos Gerais/Livros.md",
     "Conhecimentos Gerais/💎 Pedras e cursos.md",
     "Conhecimentos Gerais/Músicas",
-    "Sem título.canvas",
     "Engenharia/AVCB & CLCB.md",
     "Engenharia/IBAMA.md",
     "Análise de Sistemas/Windows.md",
@@ -214,7 +220,6 @@
     "Pessoal/Fé e Espiritualidade/Joe Dispenza.md",
     "Finanças/Cripto.md",
     "Finanças/Contabilidade.md",
-    "Análise de Sistemas/Markdown.md",
     "Análise de Sistemas/Obsidian.md",
     "2026-05-31.md",
     "Pessoal/Fé e Espiritualidade/Judaísmo.md",
@@ -225,13 +230,8 @@
     "Pessoal/CAC.md",
     "Pessoal/Livros",
     "Análise de Sistemas/SaaS.md",
-    "Engenharia/Regularização Imobiliária.md",
-    "Engenharia/Prefeitura de Indaiatuba-SP.md",
-    "CanvaTeste.canvas",
     "Análise de Sistemas",
-    "ProdutividadeIntegrada.canvas",
     "ProdutividadeIntegrada.Canvas",
-    "Produtividade.canvas",
     "Novo(a) Documento de Texto.txt",
     "Pessoal/Produtividade & Filosofia",
     "Finanças",
