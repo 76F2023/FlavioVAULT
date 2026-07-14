@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Mapa Numerológico.md",
+                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa Numerológico"
+              "title": "Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pessoal/Mapa Numerológico.md",
+                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Mapa Numerológico"
+              "title": "Sumário de Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2"
             }
           }
         ],
@@ -196,10 +196,18 @@
   },
   "active": "48325a8a8fc9049a",
   "lastOpenFiles": [
+    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
+    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
+    "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
+    "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
+    "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
+    "Engenharia/Pós em Seg. do Trabalho/O Ambiente e as doenças do trabalho.md",
+    "Pessoal/Mapa Numerológico.md",
+    "Engenharia/Pós em Seg. do Trabalho",
     "Pessoal/TESTOSTERONA.md",
     "Pessoal/TREINAMENTO.md",
     "Pessoal/Viagem.md",
-    "Pessoal/Mapa Numerológico.md",
     "CanvaTeste.canvas",
     "Produtividade.canvas",
     "Sem título.canvas",
@@ -221,14 +229,7 @@
     "Pessoal/Fé e Espiritualidade/Joe Dispenza.md",
     "Finanças/Cripto.md",
     "Finanças/Contabilidade.md",
-    "Análise de Sistemas/Obsidian.md",
-    "2026-05-31.md",
-    "Pessoal/Fé e Espiritualidade/Judaísmo.md",
-    "Análise de Sistemas/Ativar o Windows.md",
     "Pessoal/Fé e Espiritualidade",
-    "Pessoal/Livros/A singularidade está mais próxima.md",
-    "Pessoal/Livros/PMBOK.md",
-    "Pessoal/CAC.md",
     "Pessoal/Livros",
     "Análise de Sistemas",
     "ProdutividadeIntegrada.Canvas",
@@ -236,7 +237,6 @@
     "Pessoal/Produtividade & Filosofia",
     "Finanças",
     "Engenharia/Geoprocessamento",
-    "Pessoal",
     "Sem título 1.canvas"
   ]
 }
