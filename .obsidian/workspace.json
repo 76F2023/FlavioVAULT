@@ -11,14 +11,17 @@
             "id": "48325a8a8fc9049a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
-                "mode": "source",
-                "source": false
+                "file": "CanvaTeste.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "CanvaTeste"
             }
           }
         ]
@@ -166,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
+                "file": "CanvaTeste.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2"
+              "title": "Sumário de CanvaTeste"
             }
           }
         ],
@@ -196,8 +199,9 @@
   },
   "active": "48325a8a8fc9049a",
   "lastOpenFiles": [
-    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho II, Agentes Biológicos.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
+    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
@@ -228,7 +232,6 @@
     "Pessoal/Fé e Espiritualidade/121777.md",
     "Pessoal/Fé e Espiritualidade/Joe Dispenza.md",
     "Finanças/Cripto.md",
-    "Finanças/Contabilidade.md",
     "Pessoal/Fé e Espiritualidade",
     "Pessoal/Livros",
     "Análise de Sistemas",
