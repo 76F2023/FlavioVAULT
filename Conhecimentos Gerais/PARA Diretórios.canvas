@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d2306ccb8c313d0e","type":"text","text":"📁 PARA\n ├── 📁 1. Projects\n │    ├── Relatório Trimestral\n │    ├── Reforma da Cozinha\n │    └── Curso de Python\n │\n ├── 📁 2. Areas\n │    ├── Finanças\n │    ├── Saúde\n │    └── Carreira\n │\n ├── 📁 3. Resources\n │    ├── Marketing Digital\n │    ├── Citações Favoritas\n │    └── UX Design\n │\n └── 📁 4. Archives\n      ├── Projeto Antigo - 2024\n      └── Curso já Concluído\n","x":20,"y":-280,"width":340,"height":520}
+	],
+	"edges":[
+		{"id":"47079f7ab14c411f","fromNode":"d2306ccb8c313d0e","fromSide":"bottom","toNode":"7968df5cf0622e07","toSide":"top"}
+	]
+}
