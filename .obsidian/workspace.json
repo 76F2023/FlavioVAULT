@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dfe380484212555",
+        "id": "a415dfc59e8f6285",
         "type": "tabs",
         "children": [
           {
-            "id": "48325a8a8fc9049a",
+            "id": "0deddd4b0a752055",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CanvaTeste.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Conhecimentos Gerais/Método PARA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CanvaTeste"
+              "icon": "lucide-file",
+              "title": "Método PARA"
             }
           }
         ]
@@ -169,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CanvaTeste.canvas",
+                "file": "Conhecimentos Gerais/Método PARA.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CanvaTeste"
+              "title": "Sumário de Método PARA"
             }
           }
         ],
@@ -197,8 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48325a8a8fc9049a",
+  "active": "0deddd4b0a752055",
   "lastOpenFiles": [
+    "Análise de Sistemas/SaaS.md",
+    "Conhecimentos Gerais/Método PARA.md",
+    "Análise de Sistemas/GitHub.md",
+    "Análise de Sistemas/Obsidian.md",
+    "Análise de Sistemas/Ativar o Windows.md",
+    "CanvaTeste.canvas",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho II, Agentes Biológicos.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
@@ -212,13 +215,11 @@
     "Pessoal/TESTOSTERONA.md",
     "Pessoal/TREINAMENTO.md",
     "Pessoal/Viagem.md",
-    "CanvaTeste.canvas",
     "Produtividade.canvas",
     "Sem título.canvas",
     "LIsta de itens a criar.md",
     "ProdutividadeIntegrada.canvas",
     "Análise de Sistemas/Markdown.md",
-    "Análise de Sistemas/GitHub.md",
     "Pessoal/EXAMES.md",
     "Conhecimentos Gerais/Músicas/Peão.md",
     "Conhecimentos Gerais/Livros.md",
@@ -227,11 +228,7 @@
     "Engenharia/AVCB & CLCB.md",
     "Engenharia/IBAMA.md",
     "Análise de Sistemas/Windows.md",
-    "Pessoal/Produtividade & Filosofia/5S.md",
     "Conhecimentos Gerais",
-    "Pessoal/Fé e Espiritualidade/121777.md",
-    "Pessoal/Fé e Espiritualidade/Joe Dispenza.md",
-    "Finanças/Cripto.md",
     "Pessoal/Fé e Espiritualidade",
     "Pessoal/Livros",
     "Análise de Sistemas",
