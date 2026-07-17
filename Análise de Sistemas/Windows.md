@@ -68,3 +68,7 @@
     - Parâmetros como `/q`, `/f`, `/s` funcionam apenas no **CMD**.
         
     - No **PowerShell**, use `Remove-Item` com `-Recurse` e `-Force`.
+
+CHRIS TITUS TOOL
+irm https://christitus.com/win | iex
+
