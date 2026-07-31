@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
+                "file": "Análise de Sistemas/SAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Higiene do Trabalho 1"
+              "title": "SAP"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
+                "file": "Análise de Sistemas/SAP.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Higiene do Trabalho 1"
+              "title": "Sumário de SAP"
             }
           }
         ],
@@ -196,9 +196,12 @@
   },
   "active": "fc72834104de6893",
   "lastOpenFiles": [
+    "Análise de Sistemas/Códigos pra Chat-GPT.md",
+    "Análise de Sistemas/SAP.md",
+    "Análise de Sistemas/Obsidian.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Análise de Sistemas/Windows.md",
     "Análise de Sistemas/SaaS.md",
     "Pessoal/Produtividade & Filosofia/IKIGAI.md",
@@ -216,14 +219,11 @@
     "Conhecimentos Gerais/Método PARA.md",
     "Conhecimentos Gerais/PARA Diretórios.canvas",
     "Produtividade.canvas",
-    "Análise de Sistemas/Obsidian.md",
     "Análise de Sistemas/Ativar o Windows.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
-    "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
-    "Engenharia/Pós em Seg. do Trabalho/O Ambiente e as doenças do trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho",
     "Sem título.canvas",
     "ProdutividadeIntegrada.canvas",
