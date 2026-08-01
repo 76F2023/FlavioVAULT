@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Sistemas/SAP.md",
+                "file": "Análise de Sistemas/SaaS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAP"
+              "title": "SaaS"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -166,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/SAP.md",
+                "file": "Análise de Sistemas/SaaS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de SAP"
+              "title": "Sumário"
             }
           }
         ],
@@ -196,8 +198,8 @@
   },
   "active": "fc72834104de6893",
   "lastOpenFiles": [
-    "Análise de Sistemas/Códigos pra Chat-GPT.md",
     "Análise de Sistemas/SAP.md",
+    "Análise de Sistemas/Códigos pra Chat-GPT.md",
     "Análise de Sistemas/Obsidian.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
