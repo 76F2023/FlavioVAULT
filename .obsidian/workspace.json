@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1de6a139fe6a137",
+        "id": "176880f166d25ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc72834104de6893",
+            "id": "1eee5d171cbbc669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise de Sistemas/SaaS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SaaS"
+              "title": "Nova aba"
             }
           }
         ]
@@ -168,7 +164,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/SaaS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc72834104de6893",
+  "active": "1eee5d171cbbc669",
   "lastOpenFiles": [
+    "Análise de Sistemas/SaaS.md",
     "Análise de Sistemas/SAP.md",
     "Análise de Sistemas/Códigos pra Chat-GPT.md",
     "Análise de Sistemas/Obsidian.md",
@@ -205,7 +201,6 @@
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
     "Análise de Sistemas/Windows.md",
-    "Análise de Sistemas/SaaS.md",
     "Pessoal/Produtividade & Filosofia/IKIGAI.md",
     "Pessoal/Produtividade & Filosofia/Hara Hachi Bu.md",
     "Pessoal/Produtividade & Filosofia/Dashboard.md",
