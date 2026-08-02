@@ -164,7 +164,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia/Check list aprovação EAPROVE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24ca962535250ea0",
+  "active": "e025b369724dd8d5",
   "lastOpenFiles": [
+    "Engenharia/Check list aprovação EAPROVE.md",
     "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
@@ -213,7 +213,6 @@
     "Pessoal/Produtividade & Filosofia/5S.md",
     "Pessoal/Livros/PMBOK.md",
     "Pessoal/Livros/A singularidade está mais próxima.md",
-    "Engenharia/Check list aprovação EAPROVE.md",
     "Engenharia/CEF Financiamentos.md",
     "Engenharia/Engenharia..md",
     "Pessoal/TREINAMENTO.md",
