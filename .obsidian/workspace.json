@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "176880f166d25ae3",
+        "id": "c94784eeb65fa8e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1eee5d171cbbc669",
+            "id": "e025b369724dd8d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise de Sistemas/Programação/Lógica de Programação..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lógica de Programação."
+              "title": "Nova aba"
             }
           }
         ]
@@ -168,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/Programação/Lógica de Programação..md",
+                "file": "Engenharia/Check list aprovação EAPROVE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,17 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eee5d171cbbc669",
+  "active": "24ca962535250ea0",
   "lastOpenFiles": [
-    "Análise de Sistemas/SAP.md",
+    "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
+    "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
+    "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
     "Análise de Sistemas/Programação/Lógica de Programação..md",
+    "Análise de Sistemas/SAP.md",
     "Análise de Sistemas/Programação",
     "Análise de Sistemas/SaaS.md",
     "Análise de Sistemas/Códigos pra Chat-GPT.md",
     "Análise de Sistemas/Obsidian.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
     "Análise de Sistemas/Windows.md",
     "Pessoal/Produtividade & Filosofia/IKIGAI.md",
     "Pessoal/Produtividade & Filosofia/Hara Hachi Bu.md",
@@ -224,9 +223,6 @@
     "Conhecimentos Gerais/PARA Diretórios.canvas",
     "Produtividade.canvas",
     "Análise de Sistemas/Ativar o Windows.md",
-    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
-    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
-    "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho",
     "Sem título.canvas",
     "ProdutividadeIntegrada.canvas",

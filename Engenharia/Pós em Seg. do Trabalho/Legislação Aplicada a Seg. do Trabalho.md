@@ -26,24 +26,24 @@
 
 ### 3️⃣ Normas Regulamentadoras (NRs) – Portaria MTE Nº 3.214/1978
 
-|NR|Tema|Destaques práticos|
-|---|---|---|
-|NR‑1|Disposições Gerais|Abrange obrigações de empregador e trabalhador; requisitos de documentos.|
-|NR‑4|Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho (SESMT)|Dimensionamento do SESMT conforme grau de risco e número de empregados.|
-|NR‑5|Comissão Interna de Prevenção de Acidentes (CIPA)|Eleição, treinamento, atribuições e prazo de validade.|
-|NR‑6|Equipamento de Proteção Individual (EPI)|Seleção, fornecimento, manutenção, treinamento e registro de entrega.|
-|NR‑7|Programa de Controle Médico de Saúde Ocupacional (PCMSO)|Exames admissionais, periódicos, de mudança de função e demissional.|
-|NR‑9|Programa de Prevenção de Riscos Ambientais (PPRA)|Identificação, avaliação e controle de riscos físicos, químicos e biológicos.|
-|NR‑10|Segurança em Instalações e Serviços em Eletricidade|Capacitação, documentos, procedimentos de bloqueio/tag.|
-|NR‑12|Segurança no Trabalho em Máquinas e Equipamentos|Análise de risco, dispositivos de segurança, treinamento de operadores.|
-|NR‑13|Caldeiras e Vasos de Pressão|Inspeção, manutenção, certificação e treinamento.|
-|NR‑15|Atividades ou Operações Insalubres|Definição de limites de tolerância (LTC) e pagamento de adicional.|
-|NR‑16|Atividades ou Operações Perigosas|Classificação de perigos e adicional de periculosidade.|
-|NR‑17|Ergonomia|Organização do trabalho, adaptações e prevenção de LER/DORT.|
-|NR‑18|Condições e Meio Ambiente de Trabalho na Construção Civil|Equipamentos de proteção coletiva, organização de canteiros, andaimes.|
-|NR‑32|Segurança e Saúde no Trabalho em Serviços de Saúde|Controle de agentes biológicos, resíduos de risco, vacinação.|
-|NR‑33|Segurança e Saúde nos Trabalhos em Espaços Confinados|Autorização, monitoramento atmosférico, treinamento específico.|
-|NR‑35|Trabalho em Altura|Plano de trabalho, certificação de EPC, treinamento.|
+| NR    | Tema                                                                                 | Destaques práticos                                                            |
+| ----- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| NR‑1  | Disposições Gerais                                                                   | Abrange obrigações de empregador e trabalhador; requisitos de documentos.     |
+| NR‑4  | Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho (SESMT) | Dimensionamento do SESMT conforme grau de risco e número de empregados.       |
+| NR‑5  | Comissão Interna de Prevenção de Acidentes (CIPA)                                    | Eleição, treinamento, atribuições e prazo de validade.                        |
+| NR‑6  | Equipamento de Proteção Individual (EPI)                                             | Seleção, fornecimento, manutenção, treinamento e registro de entrega.         |
+| NR‑7  | Programa de Controle Médico de Saúde Ocupacional (PCMSO)                             | Exames admissionais, periódicos, de mudança de função e demissional.          |
+| NR‑9  | Programa de Prevenção de Riscos Ambientais (PPRA)                                    | Identificação, avaliação e controle de riscos físicos, químicos e biológicos. |
+| NR‑10 | Segurança em Instalações e Serviços em Eletricidade                                  | Capacitação, documentos, procedimentos de bloqueio/tag.                       |
+| NR‑12 | Segurança no Trabalho em Máquinas e Equipamentos                                     | Análise de risco, dispositivos de segurança, treinamento de operadores.       |
+| NR‑13 | Caldeiras e Vasos de Pressão                                                         | Inspeção, manutenção, certificação e treinamento.                             |
+| NR‑15 | Atividades ou Operações Insalubres                                                   | Definição de limites de tolerância (LTC) e pagamento de adicional.            |
+| NR‑16 | Atividades ou Operações Perigosas                                                    | Classificação de perigos e adicional de periculosidade.                       |
+| NR‑17 | Ergonomia                                                                            | Organização do trabalho, adaptações e prevenção de LER/DORT.                  |
+| NR‑18 | Condições e Meio Ambiente de Trabalho na Construção Civil                            | Equipamentos de proteção coletiva, organização de canteiros, andaimes.        |
+| NR‑32 | Segurança e Saúde no Trabalho em Serviços de Saúde                                   | Controle de agentes biológicos, resíduos de risco, vacinação.                 |
+| NR‑33 | Segurança e Saúde nos Trabalhos em Espaços Confinados                                | Autorização, monitoramento atmosférico, treinamento específico.               |
+| NR‑35 | Trabalho em Altura                                                                   | Plano de trabalho, certificação de EPC, treinamento.                          |
 
 > Obs.: As NRs são atualizadas periodicamente. Sempre checar a última versão no site do Ministério da Economia – Secretaria de Inspeção do Trabalho (SIT).
 
