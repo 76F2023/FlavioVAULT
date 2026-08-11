@@ -34,7 +34,15 @@ Tags: #riqueza #abundância #finanças #prosperidade #patrimônio #numerologia 
 mermaid
 
 ```
-graph TD    A[Oportunidade Surge] --> B{Impulso Áries}    B -->|Age rápido| C[Decisão em minutos]    C --> D{Resultado}    D -->|Sucesso| E[Confiança reforçada]    D -->|Fracasso| F[Lua em Touro sofre]    F --> G[Retração temporária]    G --> H[Nova oportunidade]    H --> B
+graph TD    
+A[Oportunidade Surge] --> B{Impulso Áries}    
+B -->|Age rápido| C[Decisão em minutos]    
+C --> D{Resultado}    
+D -->|Sucesso| [Confiança reforçada]    
+D -->|Fracasso| F[Lua em Touro sofre]    
+F --> G[Retração temporária]    
+G --> H[Nova oportunidade]    
+H --> B
 ```
 
 > [!warning] O Ciclo Que Você Precisa Conhecer Você decide rápido demais quando o assunto é dinheiro. O Ascendente em Áries vê uma oportunidade e age em minutos — às vezes sem avaliar riscos. Depois, se algo dá errado, a Lua em Touro sofre porque a segurança material foi ameaçada. A solução não é deixar de agir rápido (essa é sua vantagem). É criar checkpoints de segurança entre o impulso e a ação.
