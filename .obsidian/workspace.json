@@ -11,14 +11,10 @@
             "id": "9244945aa476cb30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Higiene do Trabalho 1"
+              "title": "Nova aba"
             }
           }
         ]
@@ -168,7 +164,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,11 +193,17 @@
   },
   "active": "9244945aa476cb30",
   "lastOpenFiles": [
+    "ProdutividadeIntegrada.canvas",
+    "Produtividade.canvas",
+    "Análise de Sistemas/Programação/Lógica de Programação..md",
+    "Análise de Sistemas/SAP.md",
+    "Conhecimentos Gerais/Método PARA.md",
+    "Conhecimentos Gerais/PARA Diretórios.canvas",
+    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho  IV – Riscos Químicos.md",
     "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
     "Engenharia/Pós em Seg. do Trabalho/Filtro HEPA.md",
     "Engenharia/Pós em Seg. do Trabalho/LTS - Limites de Tolerância de Substância.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 1.md",
     "Engenharia/CEF Financiamentos.md",
     "Análise de Sistemas/SaaS.md",
     "Pessoal/Fé e Espiritualidade/Esoterismo/Código da Riqueza e Abundância.md",
@@ -213,24 +214,17 @@
     "Pessoal/Fé e Espiritualidade/Esoterismo/Análise Astrológica.md",
     "Análise de Sistemas/Markdown.md",
     "Pessoal/Fé e Espiritualidade/Esoterismo",
-    "Análise de Sistemas/SAP.md",
     "Análise de Sistemas/Obsidian.md",
     "Análise de Sistemas/GitHub.md",
     "Análise de Sistemas/Códigos pra Chat-GPT.md",
     "Análise de Sistemas/Ativar o Windows.md",
-    "Análise de Sistemas/Programação/Lógica de Programação..md",
     "Análise de Sistemas/Windows.md",
     "Engenharia/Check list aprovação EAPROVE.md",
     "Engenharia/Pós em Seg. do Trabalho/Legislação Aplicada a Seg. do Trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/Introdução a Segurança e Psicologia do Trabalho.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do trabalho 3 Agentes físicos.md",
-    "Engenharia/Pós em Seg. do Trabalho/Higiene do Trabalho 2, Agentes Biológicos.md",
     "Análise de Sistemas/Programação",
-    "Conhecimentos Gerais/PARA Diretórios.canvas",
-    "Produtividade.canvas",
     "Engenharia/Pós em Seg. do Trabalho",
     "Sem título.canvas",
-    "ProdutividadeIntegrada.canvas",
     "Conhecimentos Gerais/Músicas",
     "Conhecimentos Gerais",
     "Pessoal/Fé e Espiritualidade",
