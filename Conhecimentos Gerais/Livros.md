@@ -45,4 +45,15 @@ As seis disciplinas do Pensamento Estratético, Michael D. Watkins
 
 Psico Cibernética, Maswell Maltz
 
+-------------------------------------------------------------
+4 LIVROS DA BIBLIOTECA ESTOICA
+
+Meditações, de Marco Aurélio
+
+365 Reflexões Estóicas, 
+
+Sobre a brevidade da vida, Sêneca
+
+-------------------------------------------------------------
+
 

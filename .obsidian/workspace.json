@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
+                "file": "Conhecimentos Gerais/Livros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2"
+              "title": "Livros"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
+                "file": "Conhecimentos Gerais/Livros.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,6 +198,13 @@
   },
   "active": "80ffa8a26d8767c8",
   "lastOpenFiles": [
+    "Conhecimentos Gerais/Filmes.md",
+    "Conhecimentos Gerais/💎 Pedras e cursos.md",
+    "Pessoal/Livros Resumos/PMBOK.md",
+    "Pessoal/Livros Resumos/A singularidade está mais próxima.md",
+    "Análise de Sistemas/SaaS.md",
+    "Conhecimentos Gerais/Livros.md",
+    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
     "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
     "Engenharia/Pós em Seg. do Trabalho/O Ambiente e as doenças do trabalho.md",
     "Engenharia/Pós em Seg. do Trabalho/LTS - Limites de Tolerância de Substância.md",
@@ -217,13 +224,6 @@
     "Engenharia/NRs/NR-33.md",
     "Engenharia/NRs/NR-32.md",
     "Engenharia/NRs/NR-31.md",
-    "Engenharia/NRs/NR-30.md",
-    "Engenharia/NRs/NR-29.md",
-    "Engenharia/NRs/NR-28.md",
-    "Engenharia/NRs/NR-27.md",
-    "Engenharia/NRs/NR-26.md",
-    "Engenharia/NRs/NR-25.md",
-    "Engenharia/NRs/NR-24.md",
     "Engenharia/NRs",
     "ProdutividadeIntegrada.canvas",
     "Produtividade.canvas",
@@ -235,7 +235,7 @@
     "Conhecimentos Gerais/Músicas",
     "Conhecimentos Gerais",
     "Pessoal/Fé e Espiritualidade",
-    "Pessoal/Livros",
+    "Pessoal/Livros Resumos",
     "Análise de Sistemas",
     "ProdutividadeIntegrada.Canvas",
     "Novo(a) Documento de Texto.txt",
