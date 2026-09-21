@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Sistemas/Meu SAAS/Prompt 1.md",
+                "file": "Análise de Sistemas/Open Manus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt 1"
+              "title": "Open Manus"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/Meu SAAS/Prompt 1.md",
+                "file": "Análise de Sistemas/Open Manus.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,8 +198,9 @@
   },
   "active": "80ffa8a26d8767c8",
   "lastOpenFiles": [
-    "Análise de Sistemas/Meu SAAS/Prompt 2.md",
     "Análise de Sistemas/Meu SAAS/Prompt 1.md",
+    "Análise de Sistemas/Open Manus.md",
+    "Análise de Sistemas/Meu SAAS/Prompt 2.md",
     "Análise de Sistemas/SAP.md",
     "Análise de Sistemas/Meu SAAS",
     "Análise de Sistemas/SaaS.md",
@@ -224,7 +225,6 @@
     "Engenharia/Pós em Seg. do Trabalho/Ergonomia.md",
     "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
     "Engenharia/NRs/NR-37.md",
-    "Engenharia/NRs/NR-35.md",
     "Engenharia/NRs",
     "ProdutividadeIntegrada.canvas",
     "Produtividade.canvas",
