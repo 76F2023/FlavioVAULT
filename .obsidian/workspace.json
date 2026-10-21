@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhecimentos Gerais/Filmes.md",
+                "file": "Engenharia/NRs/NR-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filmes"
+              "title": "NR-04"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conhecimentos Gerais/Filmes.md",
+                "file": "Engenharia/NRs/NR-04.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,6 +198,10 @@
   },
   "active": "80ffa8a26d8767c8",
   "lastOpenFiles": [
+    "Engenharia/NRs/NR-02.md",
+    "Engenharia/NRs/NR-01.md",
+    "Engenharia/Pós em Seg. do Trabalho/Proteção contra incêndio e explosão.md",
+    "Conhecimentos Gerais/Filmes.md",
     "Pessoal/CAC.md",
     "Pessoal/🔥 Método de Estudo.md",
     "ProdutividadeIntegrada.canvas",
@@ -223,10 +227,6 @@
     "Pessoal/Fé e Espiritualidade/Não pronuncie.md",
     "Pessoal/Fé e Espiritualidade/Joe Dispenza.md",
     "Conhecimentos Gerais/Livros.md",
-    "Conhecimentos Gerais/Filmes.md",
-    "Conhecimentos Gerais/💎 Pedras e cursos.md",
-    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 2.md",
-    "Engenharia/Pós em Seg. do Trabalho/Prevenção de Acidentes e Controle de Riscos em Máquinas e Equipamentos 1.md",
     "Engenharia/NRs",
     "Conhecimentos Gerais/PARA Diretórios.canvas",
     "Pessoal/Fé e Espiritualidade/Esoterismo",
