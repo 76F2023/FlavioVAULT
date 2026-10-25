@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
+                "file": "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestão de Riscos"
+              "title": "Cronograma de projeto"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
+                "file": "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,14 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24ca962535250ea0",
+  "active": "80ffa8a26d8767c8",
   "lastOpenFiles": [
+    "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
+    "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
     "Análise de Sistemas/Projeto de Software/Coesão e Acoplamento - MVC.md",
     "Análise de Sistemas/Projeto de Software/Engenharia de Software.md",
     "Análise de Sistemas/Projeto de Software",
     "Engenharia/Pós em Seg. do Trabalho/Filtro HEPA.md",
     "Engenharia/Pós em Seg. do Trabalho/Gerenciamento de Riscos.md",
-    "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
     "Engenharia/NRs/NR-04.md",
     "Engenharia/Engenharia..md",
     "Engenharia/NRs/NR-02.md",
@@ -226,7 +227,6 @@
     "Engenharia/Pós em Seg. do Trabalho/Proteção do Meio Ambiente.md",
     "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
     "Engenharia/Pós em Seg. do Trabalho/Gestão Integrada da Qualidade (QSSMA).md",
-    "Análise de Sistemas/Open Manus.md",
     "Análise de Sistemas/Meu SAAS",
     "Engenharia/NRs",
     "Conhecimentos Gerais/PARA Diretórios.canvas",
