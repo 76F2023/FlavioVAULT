@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
+                "file": "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronograma de projeto"
+              "title": "Anti-Gravity"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
+                "file": "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,8 +198,9 @@
   },
   "active": "80ffa8a26d8767c8",
   "lastOpenFiles": [
-    "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
     "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
+    "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
+    "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
     "Análise de Sistemas/Projeto de Software/Coesão e Acoplamento - MVC.md",
     "Análise de Sistemas/Projeto de Software/Engenharia de Software.md",
     "Análise de Sistemas/Projeto de Software",
@@ -226,7 +227,6 @@
     "Engenharia/Pós em Seg. do Trabalho/Perigo & Risco.md",
     "Engenharia/Pós em Seg. do Trabalho/Proteção do Meio Ambiente.md",
     "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
-    "Engenharia/Pós em Seg. do Trabalho/Gestão Integrada da Qualidade (QSSMA).md",
     "Análise de Sistemas/Meu SAAS",
     "Engenharia/NRs",
     "Conhecimentos Gerais/PARA Diretórios.canvas",
