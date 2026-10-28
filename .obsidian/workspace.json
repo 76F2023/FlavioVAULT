@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a85244293b839c",
+        "id": "57063f0078a6969a",
         "type": "tabs",
         "children": [
           {
-            "id": "80ffa8a26d8767c8",
+            "id": "628dd40482f6a623",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anti-Gravity"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -168,7 +164,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80ffa8a26d8767c8",
+  "active": "24ca962535250ea0",
   "lastOpenFiles": [
-    "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
+    "Análise de Sistemas/Meu SAAS/Prompt Mini SAAS.md",
     "Análise de Sistemas/Meu SAAS/Anti-Gravity.md",
+    "Análise de Sistemas/Projeto de Software/Cronograma de projeto.md",
     "Análise de Sistemas/Projeto de Software/Gestão de Riscos.md",
     "Análise de Sistemas/Projeto de Software/Coesão e Acoplamento - MVC.md",
     "Análise de Sistemas/Projeto de Software/Engenharia de Software.md",
@@ -226,7 +222,6 @@
     "Análise de Sistemas/Programação/Lógica de Programação..md",
     "Engenharia/Pós em Seg. do Trabalho/Perigo & Risco.md",
     "Engenharia/Pós em Seg. do Trabalho/Proteção do Meio Ambiente.md",
-    "Engenharia/Pós em Seg. do Trabalho/Administração Aplicada a Engenharia de Segurança.md",
     "Análise de Sistemas/Meu SAAS",
     "Engenharia/NRs",
     "Conhecimentos Gerais/PARA Diretórios.canvas",
